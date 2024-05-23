@@ -1,7 +1,6 @@
 ### Rafael De Oliveira Matias
      data de nascimento:01/04/2006 
-- Suzano, SP
-- Celular:(11) 9158-14090  Recado:(11) 97360-244    
+- Suzano, SP    
 - E-mail: Ro5346742@gmail.com
 
      ### Escolaridade
@@ -22,3 +21,7 @@
 - Proatividade
 - Organização
 - Adaptabilidade
+
+- aluno do [Scrach] https://scratch.mit.edu/
+- aluno do [ p5.js] https://editor.p5js.org/
+- aluno do [alura] https://www.alura.com.br/
